@@ -3,28 +3,28 @@ import os
 
 
 # Required Variables Config
-API_ID = int(os.environ.get("API_ID", ""))
-API_HASH = os.environ.get("API_HASH", "")
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "")
-ADMIN = int(os.environ.get("ADMIN", ""))
+API_ID = int(os.environ.get("API_ID", "25198711"))
+API_HASH = os.environ.get("API_HASH", "2a99a1375e26295626c04b4606f72752")
+BOT_TOKEN = os.environ.get("BOT_TOKEN", "7902142337:AAGQJwrAbGrTjncGp0WBL35z8ZGNIRzmeAI")
+ADMIN = int(os.environ.get("ADMIN", "1740287480"))
 
 
 # Premium 4GB Renaming Client Config
-STRING_SESSION = os.environ.get("STRING_SESSION", "")
+STRING_SESSION = os.environ.get("STRING_SESSION", "BAF6sK0Adox21RgTZ9IYmyO2AWwIMZKq_pyFsT01TYqsTWfCTEAmU5pUfeCHsenPDOW0sLu3_nyp9jMSTYj6tclCJ_M9ZhphXSvUzBpOcRs0KB4Oh9qoT2HGNmX3z9wDJB6JAzt6Ar-kY8wypGA88E3pGyQtQeeW30lMUtysOn97CllaJVJhno3gRsn06YM-sVUXjCQIwSG4b3LexvJeVifWXGIfpzOCf5iR4AFD_qvdyi_U5pwbl2xvRx7T-_ahSSNUg_-i3exoBbM2BQVO9Gk3ByKBfaFkgrTyjURkU-cC-mgCEiZeqyGOluShG0TqxGB6keyfS0AlWPFhA8P01bbGDFLaTwAAAAG6xrWUAA")
 
 
 # Log & Force Channel Config
 FORCE_SUBS = os.environ.get("FORCE_SUBS", "")
-LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL", ""))
+LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL", "-1002219568827"))
 
 
 # Mongo DB Database Config
-DATABASE_URL = os.environ.get("DATABASE_URL", "")
-DATABASE_NAME = os.environ.get("DATABASE_NAME", "madflixbotz")
+DATABASE_URL = os.environ.get("DATABASE_URL", "mongodb+srv://Aniflix:Lipun123@aniflix.q2wina5.mongodb.net/?retryWrites=true&w=majority&appName=Aniflix")
+DATABASE_NAME = os.environ.get("DATABASE_NAME", "Renamerrrrr")
 
 
 # Other Variables Config
-START_PIC = os.environ.get("START_PIC", "https://graph.org/file/ad48ac09b1e6f30d2dae4.jpg")
+START_PIC = os.environ.get("START_PIC", "https://graph.org/file/8bb6d06e2721ff8b9f56f.jpg")
 
 
 
